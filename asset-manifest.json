@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/salon-app/static/css/main.cd5b62fa.css",
+    "main.js": "/salon-app/static/js/main.7c96d072.js",
+    "static/media/hero-image.png": "/salon-app/static/media/hero-image.28b59b629fd01ae70c9c.png",
+    "static/media/logo.jpg": "/salon-app/static/media/logo.29ccb0b4af31b00ac1c7.jpg",
+    "static/media/profile.svg": "/salon-app/static/media/profile.6bae67c9807bb6e0a1514dce7041421c.svg",
+    "index.html": "/salon-app/index.html",
+    "static/media/hamburger-icon.svg": "/salon-app/static/media/hamburger-icon.a38152988aeb292910283d5348a7938a.svg",
+    "static/media/search.svg": "/salon-app/static/media/search.ec6a9689f8e9b3137519d4f0c6d07998.svg",
+    "main.cd5b62fa.css.map": "/salon-app/static/css/main.cd5b62fa.css.map",
+    "main.7c96d072.js.map": "/salon-app/static/js/main.7c96d072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5b62fa.css",
+    "static/js/main.7c96d072.js"
+  ]
+}
